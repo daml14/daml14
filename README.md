@@ -7,11 +7,11 @@
 ### 👨🏻‍💻 Sobre Mí
 
 <p>
-  Soy Ingeniero Informático con una fuerte inclinación por el desarrollo <strong>Front-End</strong>, especialmente con <strong>Angular</strong>. Mi experiencia también abarca el desarrollo <strong>Back-End</strong> con tecnologías como <strong>Java</strong> y <strong>C#</strong>, así como la gestión de bases de datos relacionales y no relacionales.
+  Soy Ingeniero Informático con una fuerte inclinación por el desarrollo <strong>Front-End</strong>. Mi experiencia también abarca el desarrollo <strong>Back-End</strong> y la gestión de bases de datos relacionales y no relacionales. Me apasiona construir soluciones eficientes y escalables.
 </p>
 
 <p>
-  Actualmente, estoy ampliando mis conocimientos en arquitectura de <strong>Microservicios</strong> y profundizando en buenas prácticas como <strong>Clean Code</strong> y los principios <strong>SOLID</strong> para construir software más robusto y escalable.
+  Actualmente, estoy ampliando mis conocimientos en arquitectura de <strong>Microservicios</strong> y profundizando en buenas prácticas como <strong>Clean Code</strong> y los principios <strong>SOLID</strong> para construir software de alta calidad.
 </p>
 
 - ✉️ Puedes contactarme en **diegomalpica99@gmail.com**. ¡Siempre estoy abierto a conversaciones interesantes!
@@ -21,12 +21,19 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-#### Lenguajes y Frameworks
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+#### Lenguajes
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-%23005C84.svg?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Estilos y UI
+#### Frameworks y Librerías
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
